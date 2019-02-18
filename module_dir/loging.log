@@ -1,0 +1,13 @@
+2019-01-06 13:51:44,751 loggings.py [51]  warn
+2019-01-06 13:51:44,751 loggings.py [52]  error
+2019-01-06 13:51:44,751 loggings.py [53]  critical
+2019-01-06 13:53:04,075 loggings.py [52]  hello deubg
+2019-01-06 13:53:04,077 loggings.py [53]  info
+2019-01-06 13:53:04,077 loggings.py [54]  warn
+2019-01-06 13:53:04,079 loggings.py [55]  error
+2019-01-06 13:53:04,080 loggings.py [56]  critical
+2019-01-06 13:55:59,758 loggings.py [56]  hello deubg
+2019-01-06 13:55:59,759 loggings.py [57]  info
+2019-01-06 13:55:59,759 loggings.py [58]  warn
+2019-01-06 13:55:59,759 loggings.py [59]  error
+2019-01-06 13:55:59,759 loggings.py [60]  critical
